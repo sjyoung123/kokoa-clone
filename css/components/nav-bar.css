@@ -23,12 +23,6 @@
   bottom: 15px;
 }
 .nav__redot {
-  background-color: #ff6229;
-  width: 5px;
-  height: 5px;
-  border-radius: 2.5px;
-  display: flex;
-  position: absolute;
   left: 32px;
   top: 1px;
 }

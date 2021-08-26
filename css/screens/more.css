@@ -1,0 +1,41 @@
+.user-component__text-more {
+  position: relative;
+}
+.user-component__text-more span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 10px;
+  height: 10px;
+  border: 1px solid tomato;
+  color: tomato;
+  border-radius: 50%;
+  padding: 1px;
+  font-size: 10px;
+  font-weight: 900;
+  position: absolute;
+  bottom: 0;
+  right: -10px;
+}
+.user-component__column-more i {
+  color: #2f363e;
+}
+.user-component-more {
+  margin-bottom: 35px;
+}
+
+.more-suggestions {
+  margin-top: 15px;
+  border-top: var(--main-border);
+  padding: 20px;
+}
+.icon-row__sugguestion-icon i {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  width: 60px;
+  background-color: var(--yellow);
+  color: white;
+  border-radius: 20px;
+}

@@ -1,0 +1,9 @@
+.redot {
+  background-color: #ff6229;
+  width: 5px;
+  height: 5px;
+  border-radius: 2.5px;
+  display: flex;
+  justify-content: end;
+  position: absolute;
+}

@@ -24,17 +24,12 @@
 
 .friends-screen__channel {
   margin-top: 20px;
-  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  border-top: var(--main-border);
   padding-top: 15px;
 }
 .friends-screen__channel__header {
   margin-bottom: 30px;
   display: flex;
   justify-content: space-between;
-  color: rgba(0, 0, 0, 0.5);
-}
-.user-component__column-chats {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
+  color: var(--main-gray);
 }
